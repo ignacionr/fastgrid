@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastGrid.Control", "FastGrid.Control\FastGrid.Control.csproj", "{EC533837-97FA-4725-9281-E96AB47D3CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastGrid.Sample", "FastGrid.Sample\FastGrid.Sample.csproj", "{29CD5B35-20DF-4B8E-91A6-B2F59BEF2950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29CD5B35-20DF-4B8E-91A6-B2F59BEF2950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CD5B35-20DF-4B8E-91A6-B2F59BEF2950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CD5B35-20DF-4B8E-91A6-B2F59BEF2950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CD5B35-20DF-4B8E-91A6-B2F59BEF2950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC533837-97FA-4725-9281-E96AB47D3CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC533837-97FA-4725-9281-E96AB47D3CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC533837-97FA-4725-9281-E96AB47D3CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC533837-97FA-4725-9281-E96AB47D3CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
